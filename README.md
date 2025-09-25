@@ -58,7 +58,7 @@ The aim is to design and simulate a full custom 2:1 multiplexer (MUX) using Cade
 ## Output
 
 ### 1. Transient Analysis Output
-<img width="1919" height="1079" alt="4" src="https://github.com/user-attachments/assets/4a2c8797-0923-4977-bb6d-d3c26ea583ef" />
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/41d5690e-d024-4f5e-af59-bf6f22c0cad1" />
 
 ## Results
 1. Successfully designed the full custom 2:1 MUX schematic using Cadence EDA tools.
